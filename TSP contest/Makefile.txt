@@ -1,0 +1,2 @@
+javac ./root/*.java
+jar -cfvm tspsolver.jar ./root/MANIFEST.MF ./root/*.class
